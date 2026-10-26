@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gapix · Go Clean API"
+  short_description: "APIs REST en Go con Clean Architecture + stdlib only (net/http, slog, sqlc)."
+  default_prompt: "Diseña o refactoriza esta API REST en Go con Clean Architecture, solo net/http y sin frameworks."
+
+policy:
+  allow_implicit_invocation: true
